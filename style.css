@@ -1,0 +1,9 @@
+.first {
+    color: rgb(93, 177, 104);
+}
+
+.box {
+    border: 5px solid;
+    height: 500px;
+    width: 500px;
+}
